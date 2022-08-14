@@ -1,0 +1,5 @@
+Username	RHT_OCP4_DEV_USER	palfrn
+Password	RHT_OCP4_DEV_PASSWORD	d694f28f6aee4b20aeda
+API Endpoint	RHT_OCP4_MASTER_API	https://api.ap410.prod.nextcle.com:6443
+Console Web Application		https://console-openshift-console.apps.ap410.prod.nextcle.com
+Cluster Id		20e5cc91-eb01-4507-819e-901b961279f3
